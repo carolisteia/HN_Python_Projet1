@@ -32,10 +32,10 @@ pip install ipykernel
 
 # Membres de l'équipe
 - Noé Leroy *alias* apogonoe
-- Colin Prudhomme *alias*
+- Colin Prudhomme *alias*  MightyPotato9
 - Lise Bernard *alias* lisebernard
 - Carolina Macedo *alias* carolisteia
 - Ekaterina Iakovlena *alias* yavlenieraket
 - Fengyi Chen *alias* fychen11
-- Yaelle Zribi *alias*
+- Yaelle Zribi *alias* yaelle-z
 
