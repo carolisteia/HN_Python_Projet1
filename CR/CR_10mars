@@ -1,0 +1,26 @@
+Projet Python : Détection des enluminures :
+
+Cours du 10 mars 2023 :
+
+2 approches : supervisée et non-supervisée (la non-supervisée est plutôt rapide)
+
+Segmentation supervisée puis annotation non-supervisée ?
+
+Classe homogène (échantillons x10 pour chaque catégorie que l'on annote).
+
+YOLO/Detectron 2
+
+Kmeans d’office
+
+Je dirais, pour l’annotation, qu’on se coltine genre 200 par personne, dans le genre. Annoter ira plutôt vite je pense.
+
+2 échantillons différents? Un pour l’apprentissage supervisé (différenciation entre lettres et des dessins) et un pour le non-supervisé (on trie rien).
+
+Pour la prochaine fois :
+
+Quelle description des données ? Des annotations des documents ?
+
+Prochaines étapes :
+
+    S’occuper de l’annotation des données : quelles classes dans les enluminures ?
+    Délimitation de la taille des échantillons.
