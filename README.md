@@ -24,11 +24,15 @@ pip install ipykernel
 ```
 ## To Do
 
-- [ ] [écrire ici les prochaines étapes 'a realiser pour le travail]
+- [ ] [lancer un fichier de spécifications pour que chacun documente la façon dont il a annoté]
+- [ ] [Mettre 'a jour la source des donnees. Noe?]
+- [ ] []
+- [ ] []
+
 
 ## Rendez-vous
-- 16/03 [on pourrait essayer de faire un compte-rendu de chaque rdv pour un meilleur suivi]]
-- 06/04
+- 16/03 [CR](https://github.com/carolisteia/HN_Python_Projet1/blob/main/CR/CR_10mars)
+- 06/04 [CR](https://github.com/carolisteia/HN_Python_Projet1/blob/main/CR/CR_6avril)
 
 # Membres de l'équipe
 - Noé Leroy *alias* apogonoe
