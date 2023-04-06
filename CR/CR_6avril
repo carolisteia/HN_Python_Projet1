@@ -1,0 +1,5 @@
+-- on a surtout décidé c'est qu'on avait pas besoin de normaliser nos annotations parce qu'on va entrainer detectron 2 sur chaque corpus individuellement pour pouvoir comparer l'impact des différentes méthodes
+
+-- pour les annotations : on propose que vous créez plus de classes pour voir aussi si on arrive à détecter plus finement que juste "humain". (Colin va faire détection de chapeaux (évêques, anges, saints, royauté...), Yaëlle va faire homme/femme/enfants).
+
+-- On va aussi lancer un fichier de spécifications pour que chacun documente la façon dont il a annoté
