@@ -34,7 +34,7 @@ pip install ipykernel
 - Noé Leroy *alias* apogonoe
 - Colin Prudhomme *alias*
 - Lise Bernard *alias* lisebernard
-- Carolina Macedo *alias carolisteia
+- Carolina Macedo *alias* carolisteia
 - Ekaterina Iakovlena *alias* yavlenieraket
 - Fengyi Chen *alias* fychen11
 - Yaelle Zribi *alias*
