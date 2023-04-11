@@ -25,7 +25,7 @@ pip install ipykernel
 ## To Do
 
 - [ ] [lancer un fichier de spécifications pour que chacun documente la façon dont il a annoté]
-- [ ] [Mettre 'a jour la source des donnees. Noe?]
+- [ ] [Mettre à jour la source des données. Noe?]
 - [ ] []
 - [ ] []
 
