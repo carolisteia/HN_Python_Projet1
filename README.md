@@ -34,6 +34,12 @@ pip install ipykernel
 - 16/03 [CR](https://github.com/carolisteia/HN_Python_Projet1/blob/main/CR/CR_10mars)
 - 06/04 [CR](https://github.com/carolisteia/HN_Python_Projet1/blob/main/CR/CR_6avril)
 
+# Éléments présent dans le dépôt
+- `CR/` : dossier contenant les comptes rendus des rendez-vous de groupe
+- `json/` : dossier contenant les json de nos annotations
+- `notebooks/`: dossier contenant les notebook Detectron2
+- `parametres_VGG.png` : capture d'écran des paramètres utilisés sur VGG pour les annotations 'humain'. 
+
 # Membres de l'équipe
 - Noé Leroy *alias* apogonoe
 - Colin Prudhomme *alias*  MightyPotato9
