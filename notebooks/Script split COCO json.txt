@@ -1,0 +1,4 @@
+#Script split COCO json (terminal)
+
+pip install pyodi
+pyodi coco random-split ./python_annotations_finales_coco.json ./annotations --val-percentage 0.25
