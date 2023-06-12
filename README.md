@@ -24,7 +24,7 @@ pip install ipykernel
 - 06/04 [CR](https://github.com/carolisteia/HN_Python_Projet1/blob/main/CR/CR_6avril)
 - 08/06 Rendez-vous final
 
-# Éléments présent dans le dépôt
+# Éléments présents dans le dépôt
 - `CR/` : dossier contenant les comptes rendus des rendez-vous de groupe
 - `json/` : dossier contenant les json de nos annotations
 - `notebooks/`: dossier contenant les notebook Detectron2
