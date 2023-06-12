@@ -28,7 +28,7 @@ pip install ipykernel
 - `CR/` : dossier contenant les comptes rendus des rendez-vous de groupe
 - `json/` : dossier contenant les json de nos annotations
 - `notebooks/`: dossier contenant les notebook Detectron2
-- `Python_HN/`: dossier contenant le notebook final Detectron2, le répertoire contenant les images, les annotations finales et les résultats du modèle.
+- `Python_HN/`: (__dossier complet exécutable__) dossier contenant le notebook final Detectron2, le répertoire contenant les images, les annotations finales et les résultats du modèle.
 - `parametres_VGG.png` : capture d'écran des paramètres utilisés sur VGG pour les annotations 'humain'. 
 
 # Membres de l'équipe
